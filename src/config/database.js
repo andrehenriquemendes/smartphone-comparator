@@ -2,10 +2,10 @@ require('dorenv').config();
 
 module.exports = {
     dialect: 'postgres',
-    host: 'localhost',
-    username: 'postgres',
+    host: process.env.HST,
+    username: process.env.USR,
     password: process.env.PSS,
-    database: 'smartphone',
+    database: process.env.DTBS,
     define: {
         timestamps: true,
         underscored: true,
