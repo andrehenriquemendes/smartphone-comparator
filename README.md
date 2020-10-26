@@ -1,4 +1,4 @@
-# smartphone-comparator-frontend
+# smartphone-comparator-backend
 Backend da minha aplicação que compara smartphones.</br>
 Obs: existem alguns bugs na aplicação.</br>
 Frontend: https://github.com/andrehenriquemendes/smartphone-comparator-frontend
